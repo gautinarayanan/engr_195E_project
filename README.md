@@ -1,6 +1,8 @@
 # Deployment of HOUSING ML CORPORTATION
 
 
+Built this to learn real-estate price prediction using traditional ML techniques and how to deploy it on Heroku to run the web-app using streamlit.
+
 ## Train the model
 
 ### Environment!
